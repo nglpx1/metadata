@@ -1,0 +1,17 @@
+{
+  "name": "My Test Token",
+  "symbol": "MTT",
+  "description": "Un token di esempio sulla blockchain Solana.",
+  "image": "https://example.com/image.png",
+  "external_url": "https://example.com",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}
